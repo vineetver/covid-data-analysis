@@ -2,6 +2,7 @@
 
 To see if there is any relationship between the spread of the the virus in a country and how happy people are, living in that country.
 
+<<<<<<< HEAD
 ### About the Dataset:
 
 The [European CDC](https://ourworldindata.org/coronavirus-source-data) publishes daily statistics on the COVID-19 pandemic. Not just for Europe, but for the entire world. We rely on the ECDC as they collect and harmonize data from around the world which allows us to compare what is happening in different countries. The European CDC data provides a global perspective on the evolving pandemic.
@@ -14,3 +15,6 @@ The ECDC makes all their data available in a daily updated clean downloadable fi
 
 The European CDC collects and aggregates data from countries around the world. The most up-to-date data for any particular country is therefore typically available earlier via the national health agencies than via the ECDC. This lag between nationally available data and the ECDC data is not very long as the ECDC publishes new data daily. But it can be several hours.
 
+=======
+Dataset: https://www.kaggle.com
+>>>>>>> b2501cab1f5de43e22ed74cedf78f3fd4267dd30
