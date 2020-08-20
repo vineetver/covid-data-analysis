@@ -15,6 +15,4 @@ The ECDC makes all their data available in a daily updated clean downloadable fi
 
 The European CDC collects and aggregates data from countries around the world. The most up-to-date data for any particular country is therefore typically available earlier via the national health agencies than via the ECDC. This lag between nationally available data and the ECDC data is not very long as the ECDC publishes new data daily. But it can be several hours.
 
-=======
-Dataset: https://www.kaggle.com
->>>>>>> b2501cab1f5de43e22ed74cedf78f3fd4267dd30
+
