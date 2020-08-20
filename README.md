@@ -2,7 +2,6 @@
 
 To see if there is any relationship between the spread of the the virus in a country and how happy people are, living in that country.
 
-<<<<<<< HEAD
 ### About the Dataset:
 
 The [European CDC](https://ourworldindata.org/coronavirus-source-data) publishes daily statistics on the COVID-19 pandemic. Not just for Europe, but for the entire world. We rely on the ECDC as they collect and harmonize data from around the world which allows us to compare what is happening in different countries. The European CDC data provides a global perspective on the evolving pandemic.
